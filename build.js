@@ -1,6 +1,16 @@
 const fs = require('fs');
 const ejs = require('ejs');
 const sass = require('sass');
+const marked = require('marked');
+
+// prevent marked from adding id elements to headers
+// see here: https://github.com/treasonx/grunt-markdown/issues/54
+const renderer = new marked.Renderer();
+renderer.heading = (text, level) => { 
+    return `<h${level}>${text}</h${level}>\n`;
+};
+
+marked.use({ renderer });
 
 const OUTPUT = '';
 
@@ -9,14 +19,20 @@ function main() {
     let outDir = __dirname + '/' + OUTPUT;
     checkDirExists(outDir);
 
+    // cv.md
+
+    let markdownDir = __dirname + '/src/cv.md';
+    checkDirExists(markdownDir);
+
+    let cvHTML = parseMarkdown(markdownDir);
+
     // index.ejs
 
     let indexDir = __dirname + '/src/index.ejs';
     checkDirExists(indexDir);
 
     let destDir = outDir + '/index.html';
-
-    renderPage(indexDir, destDir, {});
+    renderPage(indexDir, destDir, { cvHTML: cvHTML });
 
     // index.scss
 
@@ -24,7 +40,6 @@ function main() {
     checkDirExists(styleDir);
 
     destDir = outDir + '/index.css';
-
     renderStyle(styleDir, destDir);
 
 }
@@ -32,7 +47,14 @@ function main() {
 function checkDirExists(dir) {
 
     if (!fs.existsSync(dir))
-        throw new Error('{ NQ } -- directory [ ' + dir + ' ] does not exist --');
+        throw new Error('-- Directory [ ' + dir + ' ] does not exist --');
+
+}
+
+function parseMarkdown(srcDir) {
+
+    let markdown = fs.readFileSync(srcDir, 'utf8');
+    return marked.parse(markdown);
 
 }
 
