@@ -1,8 +1,8 @@
-# Patrick McGreal - Full Stack Developer
+# Patrick McGreal
 
 ## About me
 
-Hi, I'm Patrick. I've been working as a full stack developer for over six years. I'm from the UK, but I live and work in Sweden.
+Hi, I'm Patrick. I've been working as a full stack developer for over six years. I'm originally from the UK, but I live and work in Sweden.
 
 I've worked on desktop software in the past, but these days I mainly focus on web apps.
 
@@ -23,7 +23,9 @@ You can find lots of examples of work in progress [on my GitHub account](https:/
 
 ### NanoQuest
 
-NanoQuest is an upcoming web app for playing tabletop role-playing games (e.g. Dungeons and Dragons, Shadowrun) online. I was the sole developer on the project, and I built the app from scratch. Here are some highlights:
+NanoQuest is an upcoming web app for playing tabletop role-playing games (e.g. Dungeons and Dragons, Shadowrun) online. 
+
+I was the sole developer on the project, and I built the app from scratch. Here are some highlights:
 
 - Front and back-end support for user authentication and authorisation
 - Two way client-server communication with the WebSocket API
@@ -47,7 +49,7 @@ Intelligenz provides management software to the leisure industry. I was hired as
 
 When it comes to technology, I pick up whatever helps me to do my work.
 
-With that said, here are some examples of tech that I've enjoyed working with:
+That said, here are some examples of tech that I've enjoyed working with:
 
 **Languages**
 
@@ -59,7 +61,7 @@ Vue, EJS, SCSS
 
 **Back-end**
 
-Express, PostgreSQL, Sequelize, Docker
+Node, NPM, Express, PostgreSQL, Sequelize, Docker
 
 ## Get in touch
 
