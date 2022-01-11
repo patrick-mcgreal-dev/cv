@@ -67,4 +67,4 @@ You can contact me via any of the following:
 
 - GitHub: [patrick-mcgreal-dev](https://github.com/patrick-mcgreal-dev)
 - Email: [patrick.mcgreal.dev@gmail.com](mailto:patrick.mcgreal.dev@gmail.com)
-- Phone: [073-575 89 29](tel:+46735758929)
+- Phone: [(+46) 073-575 89 29](tel:+46735758929)
