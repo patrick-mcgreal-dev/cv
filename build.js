@@ -2,7 +2,7 @@ const path = require('path');
 const ssg = require('./simple-ssg');
 
 const INPUT = 'src'
-const OUTPUT = 'build';
+const OUTPUT = 'docs';
 
 function main() {
 
