@@ -20,7 +20,7 @@ function main() {
 
     // index.scss
 
-    let styleDir = __dirname + '/src/index.scss';
+    let styleDir = __dirname + '/src/stylesheets/index.scss';
     checkDirExists(styleDir);
 
     destDir = outDir + '/index.css';
