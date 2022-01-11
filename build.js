@@ -1,92 +1,37 @@
-const fs = require('fs');
-const ejs = require('ejs');
-const sass = require('sass');
-const marked = require('marked');
+const path = require('path');
+const ssg = require('./simple-ssg');
 
-// prevent marked from adding id elements to headers
-// see here: https://github.com/treasonx/grunt-markdown/issues/54
-const renderer = new marked.Renderer();
-renderer.heading = (text, level) => { 
-    return `<h${level}>${text}</h${level}>\n`;
-};
-
-marked.use({ renderer });
-
-const OUTPUT = '';
+const INPUT = 'src'
+const OUTPUT = 'build';
 
 function main() {
 
-    let outDir = __dirname + '/' + OUTPUT;
-    checkDirExists(outDir);
+    let inDir = path.join(__dirname, INPUT);
+    ssg.checkDirExists(inDir);
 
-    // cv.md
+    let outDir = path.join(__dirname, OUTPUT);
+    ssg.checkDirExists(outDir);
 
-    let markdownDir = __dirname + '/src/cv.md';
-    checkDirExists(markdownDir);
+    // process cv.md
 
-    let cvHTML = parseMarkdown(markdownDir);
+    let markdownDir = path.join(inDir, 'markdown', 'cv.md');
+    let cvHTML = ssg.parseMarkdown(markdownDir);
 
-    // index.ejs
+    // process index.ejs
 
-    let indexDir = __dirname + '/src/index.ejs';
-    checkDirExists(indexDir);
+    let indexDir = path.join(INPUT, 'pages', 'index.ejs');
+    ssg.checkDirExists(indexDir);
 
-    let destDir = outDir + '/index.html';
-    renderPage(indexDir, destDir, { cvHTML: cvHTML });
+    let destDir = path.join(outDir, '/index.html');
+    ssg.renderPage(indexDir, destDir, { cvHTML: cvHTML });
 
-    // index.scss
+    // process index.scss
 
-    let styleDir = __dirname + '/src/stylesheets/index.scss';
-    checkDirExists(styleDir);
+    let styleDir = path.join(INPUT, 'stylesheets', 'index.scss');
+    ssg.checkDirExists(styleDir);
 
-    destDir = outDir + '/index.css';
-    renderStyle(styleDir, destDir);
-
-}
-
-function checkDirExists(dir) {
-
-    if (!fs.existsSync(dir))
-        throw new Error('-- Directory [ ' + dir + ' ] does not exist --');
-
-}
-
-function parseMarkdown(srcDir) {
-
-    let markdown = fs.readFileSync(srcDir, 'utf8');
-    return marked.parse(markdown);
-
-}
-
-function renderPage(sourceDir, destDir, data) {
-
-    ejs.renderFile(sourceDir, data, (err, str) => {
-            
-        if (err != undefined) throw err;
-
-        fs.writeFile(destDir, str, (err) => {
-
-            if (err != undefined) throw err;
-
-        });
-
-    });
-
-}
-
-function renderStyle(sourceDir, destDir) {
-
-    sass.render({ file: sourceDir }, (err, result) => {
-
-        if (err != undefined) throw err;
-
-        fs.writeFile(destDir, result.css.toString(), (err) => {
-
-            if (err != undefined) throw err;
-
-        });
-
-    });
+    destDir = path.join(outDir, '/index.css');
+    ssg.renderStyle(styleDir, destDir);
 
 }
 
