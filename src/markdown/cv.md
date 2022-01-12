@@ -8,7 +8,7 @@ I've worked on desktop software in the past, but these days I mainly focus on we
 
 You can find lots of examples of work in progress [on my GitHub account](https://github.com/patrick-mcgreal-dev).
 
-## A few applications I've worked on
+## A few commercial projects I've worked on
 
 ### 100 Point Challenge
 
@@ -44,6 +44,10 @@ Intelligenz provides management software to the leisure industry. I was hired as
 - Expand the web app with functions that were previously only available is the desktop version
 - Make improvements to an online payment application
 - Add features to the desktop application
+
+## A few non-commercial projects I've worked on
+
+- 
 
 ## Some of the technology I work with
 
