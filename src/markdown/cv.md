@@ -6,7 +6,7 @@ Hi, I'm Patrick. I've been working as a full stack developer for over six years.
 
 I've worked on desktop software in the past, but these days I mainly focus on web apps.
 
-You can find examples of work in progress [on my GitHub account](https://github.com/patrick-mcgreal-dev).
+You can find lots of code [on my GitHub account](https://github.com/patrick-mcgreal-dev). Maybe you want to check out [the tool I created to generate this CV](https://github.com/patrick-mcgreal-dev/cv).
 
 ## A few commercial projects I've worked on
 
