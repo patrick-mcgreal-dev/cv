@@ -6,9 +6,9 @@ Hi, I'm Patrick. I've been working as a full stack developer for over six years.
 
 I've worked on desktop software in the past, but these days I mainly focus on web apps.
 
-You can find lots of examples of work in progress [on my GitHub account](https://github.com/patrick-mcgreal-dev).
+You can find examples of work in progress [on my GitHub account](https://github.com/patrick-mcgreal-dev).
 
-## A few applications I've worked on
+## A few commercial projects I've worked on
 
 ### 100 Point Challenge
 
@@ -44,6 +44,11 @@ Intelligenz provides management software to the leisure industry. I was hired as
 - Expand the web app with functions that were previously only available is the desktop version
 - Make improvements to an online payment application
 - Add features to the desktop application
+
+## A few non-commercial projects I've worked on
+
+- [simple-ssg](https://github.com/patrick-mcgreal-dev/simple-ssg) - a module providing utility functions for generating static sites with EJS, SASS, and the Marked markdown processor.
+- [vue-phaser](https://github.com/patrick-mcgreal-dev/vue-phaser) - do you want to build a game using the Phaser engine within Vue? You can use this repo as the foundation for your project.
 
 ## Some of the technology I work with
 
