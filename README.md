@@ -6,4 +6,4 @@ The CV is a simple static webpage, generated from the EJS, SASS, and markdown fi
 
 My own [simple-ssg](https://github.com/patrick-mcgreal-dev/simple-ssg) module does most of the heavy lifting, and saves the processed files into [the docs folder](https://github.com/patrick-mcgreal-dev/cv/tree/master/docs).
 
-GitHub pages automcatically picks up and serves up any files in this folder.
+GitHub pages automatically picks up and serves up any files in this folder.
