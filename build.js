@@ -19,18 +19,18 @@ function main() {
 
     // process index.ejs
 
-    let indexDir = path.join(INPUT, 'pages', 'index.ejs');
+    let indexDir = path.join(inDir, 'pages', 'index.ejs');
     ssg.checkDirExists(indexDir);
 
-    let destDir = path.join(outDir, '/index.html');
+    let destDir = path.join(outDir, 'index.html');
     ssg.renderPage(indexDir, destDir, { cvHTML: cvHTML });
 
     // process index.scss
 
-    let styleDir = path.join(INPUT, 'stylesheets', 'index.scss');
+    let styleDir = path.join(inDir, 'stylesheets', 'index.scss');
     ssg.checkDirExists(styleDir);
 
-    destDir = path.join(outDir, '/index.css');
+    destDir = path.join(outDir, 'index.css');
     ssg.renderStyle(styleDir, destDir);
 
 }
