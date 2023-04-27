@@ -2,16 +2,16 @@
 
 ## About me
 
-Full-stack developer for seven years.
+I've been working as a full-stack developer for seven years.
 
-Currently working with the following technologies:
+I currently use the following technologies:
 
 - React
 - Vue
 - TypeScript
 - PostgreSQL
 
-Originally from England, but live and work in Sweden.
+I'm originally from England, but live and work in Sweden.
 
 ## Projects
 
@@ -19,7 +19,7 @@ Originally from England, but live and work in Sweden.
 
 [minasidor.omstallningsfonden.se](https://minasidor.omstallningsfonden.se/logga-in)
 
-The Omställningsfonden app is used by several thousand people per month, and is built with React. I was part of the two-person team that built and maintained the codebase.
+The Omställningsfonden app is used by several thousand people per month, and is built with React. For three months, I was part of the two-person team that built and maintained the codebase.
 
 Some of the features we implemented are:
 
@@ -31,9 +31,9 @@ Some of the features we implemented are:
 
 [loumee.co](https://www.loumee.co/)
 
-The Loumee app is built with Vue. When I worked with Loumee, I was the only developer maintaining the codebase.
+I've worked with Loumee for two years, and I'm currently the only developer maintaining the codebase.
 
-Some of the features I implemented are:
+Some of the features I've implemented are:
 
 - User data aggregation using [Chart.js](https://www.chartjs.org/)
 - A content management system using [Directus](https://directus.io/)
@@ -43,7 +43,7 @@ Some of the features I implemented are:
 
 [intelligenz.global](https://www.intelligenz.global/)
 
-The Intelligenz software was previously only available for Windows. I worked with a team of developers to create a web app using ASP.NET.
+The Intelligenz software was previously only available for Windows. I worked for three years with a team of developers to create a web app using ASP.NET.
 
 Some of the features I worked on are:
 
