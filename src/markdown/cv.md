@@ -8,7 +8,7 @@ I've worked with the Microsoft .NET platform, as well as modern JavaScript frame
 
 I'm very motivated by creative applications, and I'm currently working on building a browser-based digital audio workstation.
 
-As a remote contractor, I'm very used to managing my own time and working towards deadlines. I've also worked with remote teams using Scrum and Agile methodology. When I join a new team, I'm very quick to get involved and start adding value to the codebase.
+As a remote contractor, I'm very used to managing my own time and working towards deadlines. I've also worked with remote teams using Scrum and Agile methodology. When I join a new team, I'm quick to get involved and start adding value to the codebase.
 
 I'm originally from England, but I live and work in Sweden.
 
