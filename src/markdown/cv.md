@@ -38,6 +38,8 @@ Git, Visual Studio, VS Code, SQL Server Management Studio
 
 ### Soft Elixir
 
+[Soft Elixir dev log](https://patrick-mcgreal-dev.github.io/soft-elixir-log/)
+
 Soft Elixir is a digital audio workstation that lives in the browser.
 
 Using the Web Audio API, Soft Elixir lets you create music by scheduling audio events with custom synthesizer functions.
