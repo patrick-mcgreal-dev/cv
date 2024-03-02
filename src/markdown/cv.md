@@ -44,9 +44,10 @@ Features:
 
 - The ability to create, save, and edit songs entirely within the browser
 - Six tracks of audio and waveform visualisations
-- Deep editing functionality - [see the full control list for details](https://softelixir.app/control-list.html)
+- Deep editing functionality - see the [full control list](https://softelixir.app/control-list.html) for details
+- .wav export
 
-[Check out the userguide](https://softelixir.app/userguide) for full details.
+Check out the [userguide](https://softelixir.app/userguide) for a full rundown and [here](https://www.youtube.com/watch?v=NK4cvYAqNCU) for a demo video.
 
 ### Omställningsfonden
 
