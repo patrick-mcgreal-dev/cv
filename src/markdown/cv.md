@@ -4,7 +4,7 @@
 
 Hi, I'm Patrick. I'm a full-stack developer with almost a decade of experience.
 
-I've worked with the Microsoft .NET platform, as well as modern JavaScript frameworks like Vue and React. I've also built custom frontend solutions using Web Components. I have a lot of experience building interactive web apps using both the Canvas API and the Web Audio API.
+Right now I work mainly with JavaScript frameworks like Vue and React in the frontend, and Node in the backend. I've also spent several years in the .NET world, and when it comes to databases I feel very comfortable with any flavour of SQL.
 
 I'm very motivated by creative applications, and I'm currently working on a browser-based music workstation which you can find [here](https://softelixir.app). Check out a demo video [here](https://www.youtube.com/watch?v=NK4cvYAqNCU) for a quicker introduction.
 
@@ -24,7 +24,7 @@ React, Vue
 
 **Backend**
 
-Node, Express, PostgreSQL, Sequelize
+Node, PostgreSQL, Sequelize
 
 **Software**
 
@@ -57,7 +57,7 @@ As one of two developers contracting for Omställningsfonden, I worked on a secu
 
 Development on this project was very rapid. Each week, developers met with product owners to discuss business requirements to be implemented the following week.
 
-Because of this short development cycle, we put a lot of effort into keeping the codebase lean and refactorable.
+Because of the short development cycle, we put a lot of effort into keeping the codebase lean and refactorable.
 
 Some of the features we implemented were:
 
