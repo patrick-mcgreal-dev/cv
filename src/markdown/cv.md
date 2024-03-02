@@ -6,7 +6,9 @@ Hi, I'm Patrick. I'm a full-stack developer with almost a decade of experience.
 
 Right now I work mainly with JavaScript frameworks like Vue and React in the frontend, and Node in the backend. I've also spent several years in the .NET world, and when it comes to databases I feel very comfortable with any flavour of SQL.
 
-I'm very motivated by creative applications, and I'm currently working on a browser-based music workstation which you can find [here](https://softelixir.app). Check out a demo video [here](https://www.youtube.com/watch?v=NK4cvYAqNCU) for a quicker introduction.
+With that said, I'm not dogmatic about the tools I use. I have no problem picking up new technologies if they help get the job done.
+
+I'm very motivated by creative applications, and I'm currently working on a browser-based music workstation which can be found [here](https://softelixir.app). Check out a demo video [here](https://www.youtube.com/watch?v=NK4cvYAqNCU) for a quick introduction.
 
 My experience as a remote contractor means I'm used to working independently towards deadlines. I've also worked with Scrum and Agile methodology. When I join a new team, I'm quick to start adding value to the codebase.
 
