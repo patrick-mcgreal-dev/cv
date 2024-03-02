@@ -2,11 +2,11 @@
 
 ## Summary
 
-Hi, I'm Patrick. I'm a senior full-stack developer with seven years of experience.
+Hi, I'm Patrick. I'm a senior full-stack developer with almost a decade of experience.
 
 I've worked with the Microsoft .NET platform, as well as modern JavaScript frameworks like Vue and React. I've also built custom frontend solutions using Web Components. I have a lot of experience building interactive web apps using both the Canvas API and the Web Audio API.
 
-I'm very motivated by creative applications, and I'm currently working on building a browser-based digital audio workstation.
+I'm very motivated by creative applications, and I'm currently working on a browser-based music workstation which you can find [here](https://softelixir.app).
 
 As a remote contractor, I'm very used to managing my own time and working towards deadlines. I've also worked with remote teams using Scrum and Agile methodology. When I join a new team, I'm quick to start adding value to the codebase.
 
@@ -38,18 +38,19 @@ Git, Visual Studio, VS Code, SQL Server Management Studio
 
 ### Soft Elixir
 
-[Soft Elixir dev log](https://patrick-mcgreal-dev.github.io/soft-elixir-log/)
+[Soft Elixir app](https://softelixir.app)
 
-Soft Elixir is a digital audio workstation that lives in the browser.
+My current project is Soft Elixir, a sample-based music workstation that lives in the browser.
 
-Using the Web Audio API, Soft Elixir lets you create music by scheduling audio events with custom synthesizer functions.
+Currently in alpha, everything built by me.
 
-This has been my biggest project so far, as it involves so many different technical domains: 
+Features:
 
-- The Web Audio API for scheduling and generating sound
-- The canvas API for producing a fast and responsive user interface
-- Web workers for keeping audio and visuals synchronised
-- Web components for producing reusable HTML elements without the overhead of a JavaScript framework
+- The ability to create, save, and edit songs entirely within the browser
+- Six tracks of audio and waveform visualisations
+- Deep editing possibilities - [see the full control list for details](https://softelixir.app/control-list.html)
+
+[Check out the userguide](https://softelixir.app/userguide) for full details.
 
 ### Omställningsfonden
 
