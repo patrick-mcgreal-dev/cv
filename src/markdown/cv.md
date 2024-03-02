@@ -6,7 +6,7 @@ Hi, I'm Patrick. I'm a senior full-stack developer with almost a decade of exper
 
 I've worked with the Microsoft .NET platform, as well as modern JavaScript frameworks like Vue and React. I've also built custom frontend solutions using Web Components. I have a lot of experience building interactive web apps using both the Canvas API and the Web Audio API.
 
-I'm very motivated by creative applications, and I'm currently working on a browser-based music workstation which you can find [here](https://softelixir.app).
+I'm very motivated by creative applications, and I'm currently working on a browser-based music workstation which you can find [here](https://softelixir.app). Check out a demo video [here](https://www.youtube.com/watch?v=NK4cvYAqNCU) for a quicker introduction.
 
 As a remote contractor, I'm very used to managing my own time and working towards deadlines. I've also worked with remote teams using Scrum and Agile methodology. When I join a new team, I'm quick to start adding value to the codebase.
 
