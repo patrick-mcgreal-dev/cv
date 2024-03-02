@@ -66,6 +66,10 @@ a {
 /* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
 /* INDEX start */
 /* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
+* {
+  box-sizing: border-box;
+}
+
 body {
   font-family: Helvetica, sans-serif;
   background-color: #eee;
@@ -140,6 +144,12 @@ a:hover {
 
 strong {
   font-weight: 600;
+}
+
+img {
+  width: 100%;
+  max-width: 520px;
+  border-radius: 5px;
 }
 
 /* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * */

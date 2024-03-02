@@ -40,6 +40,8 @@ Git, Visual Studio, VS Code, SQL Server Management Studio
 
 [Soft Elixir app](https://softelixir.app)
 
+![Soft Elixir](./images/soft-elixir.png)
+
 My current project is Soft Elixir, a sample-based music workstation that lives in the browser.
 
 Currently in alpha, everything built by me.
