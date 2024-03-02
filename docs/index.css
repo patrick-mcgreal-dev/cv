@@ -72,7 +72,7 @@ a {
 
 body {
   /* font-family: Helvetica, sans-serif; */
-  font-family: 'Times New Roman', Times, serif;
+  font-family: "Times New Roman", Times, serif;
   background-color: #eee;
 }
 
@@ -106,9 +106,8 @@ h3 {
   margin-top: 24px;
   margin-bottom: 16px;
   font-size: 1.25em;
-  font-weight: 300;
+  font-weight: 600;
   line-height: 1.25;
-  text-decoration: underline;
 }
 
 p {

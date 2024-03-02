@@ -54,7 +54,7 @@ Features:
 
 As one of two developers contracting for Omställningsfonden, I worked on a secure web app used by several thousand people each month.
 
-Development on this project was very rapid. Each week, developers would meet with product owners to discuss business requirements to be implemented the following week.
+Development on this project was very rapid. Each week, developers met with product owners to discuss business requirements to be implemented the following week.
 
 Because of this short development cycle, we put a lot of effort into keeping the codebase lean and refactorable.
 
