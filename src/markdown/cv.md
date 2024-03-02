@@ -47,7 +47,6 @@ Features:
 - The ability to create, save, and edit songs entirely within the browser
 - Six tracks of audio and waveform visualisations
 - Deep editing functionality - see the [full control list](https://softelixir.app/control-list.html) for details
-- .wav export
 
 Check out the [userguide](https://softelixir.app/userguide) for a full rundown and [here](https://www.youtube.com/watch?v=NK4cvYAqNCU) for a demo video.
 
@@ -73,9 +72,9 @@ Some of the features we implemented were:
 
 The Loumee application delivers online games to users through a secure web app.
 
-My main task with Loumee was to transform the codebase from an minimum viable product to a future-proof scalable application.
+My main task with Loumee was to transform the codebase from an minimum viable product to a scalable and future-proof application.
 
-One of the biggest changes I made was implementing a content management system to allow non-technical users to add content to the app. The result of this change was a much more agile methodology: administrators could now add to the library of games without the need to involve developers.
+One of the biggest changes I made was implementing a custom content management system. The result of this change was a much more agile process: non-technical could now add content without the need to involve developers.
 
 Some of the other features I implemented were:
 
