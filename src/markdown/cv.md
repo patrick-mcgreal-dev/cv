@@ -8,7 +8,7 @@ Right now I work mainly with JavaScript frameworks like Vue and React in the fro
 
 With that said, I'm not dogmatic about the tools I use. I have no problem picking up new technologies if they help get the job done.
 
-I'm very motivated by creative applications, and I'm currently working on a browser-based music workstation which can be found [here](https://softelixir.app). Check out a demo video [here](https://www.youtube.com/watch?v=NK4cvYAqNCU) for a quick introduction.
+I'm very motivated by creative software, and I'm currently working on a browser-based music workstation which can be found [here](https://softelixir.app). Check out a demo video [here](https://www.youtube.com/watch?v=NK4cvYAqNCU) for a quick introduction.
 
 My experience as a remote contractor means I'm used to working independently towards deadlines. I've also worked with Scrum and Agile methodology. When I join a new team, I'm quick to start adding value to the codebase.
 
@@ -74,7 +74,7 @@ The Loumee application delivers online games to users through a secure web app.
 
 My main task with Loumee was to transform the codebase from an minimum viable product to a scalable and future-proof application.
 
-One of the biggest changes I made was implementing a custom content management system. The result of this change was a much more agile process: non-technical could now add content without the need to involve developers.
+One of the biggest changes I made was implementing a custom content management system. The result of this change was a much more agile process: non-technical users could now add content without the need to involve developers.
 
 Some of the other features I implemented were:
 
