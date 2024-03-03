@@ -22,7 +22,7 @@ JavaScript, TypeScript, C#, Lua
 
 **Frameworks**
 
-React, Vue
+React, Vue, .NET
 
 **Backend**
 
