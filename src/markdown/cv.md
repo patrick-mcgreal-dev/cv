@@ -12,7 +12,7 @@ I'm very motivated by creative software, and I'm currently working on a browser-
 
 My experience as a remote contractor means I'm used to working independently towards deadlines. I've also worked with Scrum and Agile methodology. When I join a new team, I'm quick to start adding value to the codebase.
 
-I'm originally from England, but I live and work in Sweden.
+I'm originally from England, but I've been fully resident in Sweden for over three years.
 
 ## Tools
 
