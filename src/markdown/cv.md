@@ -32,6 +32,8 @@ Node, PostgreSQL, Sequelize
 
 Git, Visual Studio, VS Code, SQL Server Management Studio
 
+<!-- <br /><br /><br /><br /> -->
+
 ## Projects
 
 ### Soft Elixir
