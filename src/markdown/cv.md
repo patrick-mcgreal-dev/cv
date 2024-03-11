@@ -8,7 +8,7 @@ Right now I work mainly with JavaScript frameworks like Vue and React in the fro
 
 With that said, I'm not dogmatic about the tools I use. I have no problem picking up new technologies if they help get the job done.
 
-I'm very motivated by creative software, and I'm currently working on a browser-based music workstation which can be found [here](https://softelixir.app). Check out a demo video [here](https://www.youtube.com/watch?v=NK4cvYAqNCU) for a quick introduction.
+I'm very motivated by creative software, and I've just released the alpha version of a browser-based music workstation [here](https://softelixir.app). Check out a demo video [here](https://www.youtube.com/watch?v=NK4cvYAqNCU) for a quick introduction.
 
 My experience as a remote contractor means I'm used to working independently towards deadlines. I've also worked with Scrum and Agile methodology. When I join a new team, I'm quick to start adding value to the codebase.
 
@@ -52,6 +52,8 @@ Check out the [userguide](https://softelixir.app/userguide) for a full rundown a
 
 ### Omställningsfonden
 
+![omställningsfonden](./images/omställningsfonden.png)
+
 [minasidor.omstallningsfonden.se](https://minasidor.omstallningsfonden.se/logga-in)
 
 As one of two developers contracting for Omställningsfonden, I worked on a secure web app used by several thousand people each month.
@@ -67,6 +69,8 @@ Some of the features we implemented were:
 - Interactive online forms
 
 ### Loumee
+
+![Loumee](./images/loumee.png)
 
 [loumee.co](https://www.loumee.co/)
 
