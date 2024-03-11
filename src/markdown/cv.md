@@ -54,7 +54,7 @@ Check out the [userguide](https://softelixir.app/userguide) for a full rundown a
 
 ### Omställningsfonden
 
-![omställningsfonden](./images/omställningsfonden.png)
+![omställningsfonden](./images/omstallningsfonden.png)
 
 [minasidor.omstallningsfonden.se](https://minasidor.omstallningsfonden.se/logga-in)
 
