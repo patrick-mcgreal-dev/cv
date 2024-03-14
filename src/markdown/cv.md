@@ -12,6 +12,8 @@ I'm very motivated by creative software, and I've just released the alpha versio
 
 My experience as a remote contractor means I'm used to working independently towards deadlines. I've also worked with Scrum and Agile methodology. When I join a new team, I'm quick to start adding value to the codebase.
 
+During the last twelve months I've built a small stuga on the outskirts of Norrtälje, spent time with my young daughter (pappaledig), and released my app. Right now, I'm looking for full-time work again.
+
 I'm originally from England, but I've been fully resident in Sweden for over three years.
 
 ## Tools
