@@ -37,6 +37,7 @@ Git, Visual Studio, VS Code, SQL Server Management Studio
 ## Projects
 
 ### Soft Elixir
+#### Apr 2023—present
 
 My current project is [Soft Elixir](https://softelixir.app), a sample-based music workstation that lives in the browser.
 
@@ -53,6 +54,7 @@ Features:
 Check out the [userguide](https://softelixir.app/userguide) for a full rundown and [here](https://www.youtube.com/watch?v=NK4cvYAqNCU) for a demo video.
 
 ### Omställningsfonden
+#### Jan 2023—Mar 2023
 
 ![omställningsfonden](./images/omstallningsfonden.png)
 
@@ -71,6 +73,7 @@ Some of the features we implemented were:
 - Interactive online forms
 
 ### Loumee
+#### Jul 2021—Dec 2022
 
 ![Loumee](./images/loumee.png)
 
@@ -89,6 +92,7 @@ Some of the other features I implemented were:
 - A customisable game system
 
 ### Intelligenz
+#### Jan 2015—Jan 2021
 
 [intelligenz.global](https://www.intelligenz.global/)
 
