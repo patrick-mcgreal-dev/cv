@@ -44,7 +44,7 @@ Upsales is a browser-based sales and CRM system.
 My work has covered the following:
 
 - Building new features
-- Modernising the codebase by replacing Angular modules with React components
+- Replacing old Angular code with new React components
 - Mentoring junior developers and documenting the codebase
 
 ### Soft Elixir
