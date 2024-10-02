@@ -4,17 +4,13 @@
 
 Hi, I'm Patrick. I'm a full-stack developer with almost a decade of experience.
 
-Right now I work mainly with JavaScript frameworks like Vue and React in the frontend, and Node in the backend. I've also spent several years in the .NET world, and when it comes to databases I feel very comfortable with any flavour of SQL.
+Right now I work mainly with JavaScript frameworks like React and Vue in the frontend, and Node in the backend. I've also spent several years in the .NET world, and when it comes to databases I feel very comfortable with any flavour of SQL.
 
-With that said, I'm not dogmatic about the tools I use. I have no problem picking up new technologies if they help get the job done.
-
-I'm very motivated by creative software, and I've just released the alpha version of a browser-based music workstation [here](https://softelixir.app). Check out a demo video [here](https://www.youtube.com/watch?v=NK4cvYAqNCU) for a quick introduction.
+I'm not dogmatic about the tools I use. I have no problem picking up new technologies if they help get the job done.
 
 My experience as a remote contractor means I'm used to working independently towards deadlines. I've also worked with Scrum and Agile methodology. When I join a new team, I'm quick to start adding value to the codebase.
 
-During the last twelve months I've built a small stuga on the outskirts of Norrtälje, spent time with my young daughter (pappaledig), and released my app. Right now, I'm looking for full-time work again.
-
-I'm originally from England, but I've been fully resident in Sweden for over three years.
+I'm originally from England, but I've been fully resident in Sweden for four years.
 
 ## Tools
 
@@ -38,10 +34,23 @@ Git, Visual Studio, VS Code, SQL Server Management Studio
 
 ## Projects
 
+### Upsales
+#### Jun 2024-present
+
+[upsales.com](https://upsales.com)
+
+Upsales is a browser-based sales and CRM system.
+
+My work has covered the following:
+
+- Building new features
+- Modernising the codebase by replacing Angular modules with React components
+- Mentoring junior developers and documenting the codebase
+
 ### Soft Elixir
 #### Apr 2023—present
 
-My current project is [Soft Elixir](https://softelixir.app), a sample-based music workstation that lives in the browser.
+[Soft Elixir](https://softelixir.app) is a sample-based music workstation that lives in the browser.
 
 ![Soft Elixir](./images/soft-elixir.png)
 
@@ -58,7 +67,7 @@ Check out the [userguide](https://softelixir.app/userguide) for a full rundown a
 ### Omställningsfonden
 #### Jan 2023—Mar 2023
 
-![omställningsfonden](./images/omstallningsfonden.png)
+![omställningsfonden](./images/omstallningsfonden.png)
 
 [minasidor.omstallningsfonden.se](https://minasidor.omstallningsfonden.se/logga-in)
 
