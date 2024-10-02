@@ -6,7 +6,7 @@ Hi, I'm Patrick. I'm a full-stack developer with almost a decade of experience.
 
 Right now I work mainly with JavaScript frameworks like React and Vue in the frontend, and Node in the backend. I've also spent several years in the .NET world, and when it comes to databases I feel very comfortable with any flavour of SQL.
 
-I'm not dogmatic about the tools I use. I have no problem picking up new technologies if they help get the job done.
+I'm not dogmatic about the tools I use, and I have no problem picking up new technologies if they help get the job done.
 
 My experience as a remote contractor means I'm used to working independently towards deadlines. I've also worked with Scrum and Agile methodology. When I join a new team, I'm quick to start adding value to the codebase.
 
