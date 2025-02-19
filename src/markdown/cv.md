@@ -12,6 +12,23 @@ My experience as a remote contractor means I'm used to working independently tow
 
 I'm originally from England, but I've been fully resident in Sweden for four years.
 
+## For Qulinda...
+
+Hi Qulinda,
+
+Since reading the book "Losing Eden" (highly recommended), I've been looking for a project that combines my love of nature with my love of technology. Your startup feels like the perfect fit for me.
+
+I'm deeply passionate about the natural world, and now that I have a daughter I'm determined to work towards its preservation. Working in a small team like yours would be a dream for me - I thrive when I'm able to make creative decisions about how to grow a product.
+
+I'm especially interested in your wildlife monitoring projects. I would be so happy to sit in the forest with a laptop and field-test a prototype!
+
+Let's speak soon - I'm really keen to hear more about your tech-stack and your plans for the future.
+
+Mvh,
+Patrick
+
+<!-- <br /><br /><br /><br /> -->
+
 ## Tools
 
 **Languages**
@@ -30,14 +47,14 @@ Node, PostgreSQL, Sequelize
 
 Git, Visual Studio, VS Code, SQL Server Management Studio
 
-<!-- <br /><br /> -->
-
 ## Projects
 
 ### Upsales
 #### Jun 2024-present
 
 [upsales.com](https://upsales.com)
+
+![Upsales](./images/upsales.webp)
 
 Upsales is a browser-based sales and CRM system.
 
@@ -46,6 +63,8 @@ My work has covered the following:
 - Building new features
 - Replacing old Angular code with new React components
 - Mentoring junior developers and documenting the codebase
+
+<br /><br /><br /><br /><br />
 
 ### Soft Elixir
 #### Apr 2023—present
