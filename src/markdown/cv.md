@@ -12,22 +12,22 @@ My experience as a remote contractor means I'm used to working independently tow
 
 I'm originally from England, but I've been fully resident in Sweden for four years.
 
-## For Qulinda...
+## For Natural Cycles...
 
-Hi Qulinda,
+Hi Natural Cycles,
 
-Since reading the book "Losing Eden" (highly recommended), I've been looking for a project that combines my love of nature with my love of technology. Your startup feels like the perfect fit for me.
+A few years back, my wife and I read the book "Taking Charge of your Fertility", which felt like a revelation.
 
-I'm deeply passionate about the natural world, and now that I have a daughter I'm determined to work towards its preservation. Working in a small team like yours would be a dream for me - I thrive when I'm able to make creative decisions about how to grow a product.
+Since then, I've become a father to two daughters and I feel more strongly than ever that control over women's reproductive health needs to be in the hands of women. This is especially pertinent in the Trump era.
 
-I'm especially interested in your wildlife monitoring projects. I would be so happy to sit in the forest with a laptop and field-test a prototype!
+As well as the fact that I really like your product, your tech stack suits me very well. 
 
-Let's speak soon - I'm really keen to hear more about your tech-stack and your plans for the future.
+Let's speak soon, I think we're a great fit.
 
 Mvh,
 Patrick
 
-<!-- <br /><br /><br /><br /> -->
+<br /><br /><br /><br /><br /><br />
 
 ## Tools
 
@@ -37,7 +37,7 @@ JavaScript, TypeScript, C#, Lua
 
 **Frameworks**
 
-React, Vue, .NET
+React, Angular, Vue, .NET
 
 **Backend**
 
@@ -64,7 +64,7 @@ My work has covered the following:
 - Replacing old Angular code with new React components
 - Mentoring junior developers and documenting the codebase
 
-<br /><br /><br /><br /><br />
+<!-- <br /><br /><br /><br /><br /> -->
 
 ### Soft Elixir
 #### Apr 2023—present
