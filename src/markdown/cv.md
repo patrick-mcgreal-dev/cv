@@ -12,23 +12,6 @@ My experience as a remote contractor means I'm used to working independently tow
 
 I'm originally from England, but I've been fully resident in Sweden for four years.
 
-## For Natural Cycles...
-
-Hi Natural Cycles,
-
-A few years back, my wife and I read the book "Taking Charge of your Fertility", which felt like a revelation.
-
-Since then, I've become a father to two daughters and I feel more strongly than ever that control over women's reproductive health needs to be in the hands of women. This is especially pertinent in the Trump era.
-
-As well as the fact that I really like your product, your tech stack suits me very well. 
-
-Let's speak soon, I think we're a great fit.
-
-Mvh,
-Patrick
-
-<br /><br /><br /><br /><br /><br />
-
 ## Tools
 
 **Languages**
@@ -63,8 +46,6 @@ My work has covered the following:
 - Building new features
 - Replacing old Angular code with new React components
 - Mentoring junior developers and documenting the codebase
-
-<!-- <br /><br /><br /><br /><br /> -->
 
 ### Soft Elixir
 #### Apr 2023—present
