@@ -1,7 +1,5 @@
 # Patrick McGreal
 
-## Summary
-
 Hi, I'm Patrick. I'm a full-stack developer with almost a decade of experience.
 
 Right now I work mainly with JavaScript frameworks like React and Vue in the frontend, and Node in the backend. I've also spent several years in the .NET world, and when it comes to databases I feel very comfortable with any flavour of SQL.
